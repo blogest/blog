@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person.<div id='realssp_fluke10300014_30961' class='realssp_dv' data-mcode='Zmx1a2UxMDMwMDAxNF8zMDk2MQ==' title='리얼클릭 배너광고'></div><script src='//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=fluke10300014_30961&t=j'async></script>"
+  bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
