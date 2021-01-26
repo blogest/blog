@@ -26,7 +26,7 @@ url                      : "http://sllo.pe.kr" # the base hostname & protocol fo
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://i.pinimg.com/originals/73/50/0a/73500a148aefbee0215a8fbca5763795.gif"
+logo                     : # ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "입시남"
-  avatar           : "https://i.pinimg.com/originals/73/50/0a/73500a148aefbee0215a8fbca5763795.gif"
-  bio              : "입시정보 알리미"
+  avatar           : "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTGZO6%2FbtqUJYVOnEM%2F86VmhaoiDA6He5sWX2nlhk%2Fimg.jpg"
+  bio              : "대학정보 모집전형 입시정보 수시등급 정시등급 "
   location         : "Somewhere"
   email            :
   links:
